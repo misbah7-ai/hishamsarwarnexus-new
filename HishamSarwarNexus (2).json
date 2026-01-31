@@ -8,7 +8,7 @@
         "responseMode": "responseNode",
         "options": {}
       },
-      "id": "a768cf64-b8da-4395-a7da-f29d9beb3d06",
+      "id": 
       "name": "Webhook Trigger",
       "type": "n8n-nodes-base.webhook",
       "typeVersion": 2.1,
@@ -16,7 +16,7 @@
         -672,
         96
       ],
-      "webhookId": "53072b2f-78fe-45a9-b261-8b123d22999e"
+      "webhookId": 
     },
     {
       "parameters": {
